@@ -1,2 +1,2 @@
 # gotraining
-Various Go exercises
+Various Go exercises from the book "Learning Go" by John Bodner 
