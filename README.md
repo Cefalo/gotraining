@@ -1,0 +1,2 @@
+# gotraining
+Various Go exercises
